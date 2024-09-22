@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\NhatBui\Backup_28.12.2021\MyLab\IT\Projects\MM30\java-starterpack\.metadata\.plugins\org.eclipse.jdt.core
